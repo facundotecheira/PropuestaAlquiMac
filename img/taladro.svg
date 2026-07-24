@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="250" viewBox="0 0 400 250">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#E8F8F0"/><stop offset="100%" stop-color="#D4F5E0"/></linearGradient></defs>
+  <rect fill="url(#bg)" width="400" height="250"/>
+  <g transform="translate(140,50)" fill="none" stroke="#2ECC71" stroke-width="4" stroke-linecap="round">
+    <rect x="0" y="0" width="50" height="120" rx="6" fill="#2ECC71" opacity="0.15"/>
+    <rect x="15" y="0" width="20" height="60" rx="3" fill="#2ECC71" opacity="0.3"/>
+    <rect x="5" y="120" width="40" height="8" rx="3" fill="#2ECC71" opacity="0.25"/>
+    <line x1="60" y1="20" x2="100" y2="40" stroke-width="5"/>
+    <line x1="60" y1="60" x2="100" y2="50" stroke-width="5"/>
+    <circle cx="110" cy="45" r="15" fill="none" stroke-width="3"/>
+  </g>
+  <text x="200" y="210" text-anchor="middle" font-size="14" fill="#1ABC9C" font-family="Arial" font-weight="bold">Taladro</text>
+</svg>
